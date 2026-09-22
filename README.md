@@ -6,17 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.java) |
 
 ### brute force
 
@@ -29,7 +37,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 
 ### sortings
 
