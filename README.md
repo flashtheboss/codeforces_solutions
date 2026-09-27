@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (2)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -50,6 +50,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
 
 ### implementation
 
@@ -65,6 +66,7 @@
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
 
 ### sortings
 
