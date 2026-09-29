@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 11 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (2)
-- [math](#math) (4)
+- [implementation](#implementation) (4)
+- [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -34,6 +34,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### constructive algorithms
@@ -56,6 +58,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
@@ -63,6 +67,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
