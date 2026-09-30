@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 10 |
 
 ---
 
@@ -15,9 +15,11 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (4)
-- [math](#math) (5)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -43,6 +45,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### greedy
 
@@ -70,8 +78,15 @@
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### sortings
 
