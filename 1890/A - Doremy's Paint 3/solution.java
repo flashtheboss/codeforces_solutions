@@ -1,41 +1,42 @@
-import java.util.*;
- 
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
- 
-        int t = sc.nextInt();
- 
-        while (t-- > 0) {
-            int n = sc.nextInt();
- 
-            Map<Integer, Integer> freq = new HashMap<>();
- 
-            for (int i = 0; i < n; i++) {
-                int x = sc.nextInt();
-                freq.put(x, freq.getOrDefault(x, 0) + 1);
+import java.util.HashSet;
+import java.util.Scanner;
+public class Main1890A{
+    public static void main(String[] args){
+        Scanner katu=new Scanner(System.in);
+        int t=katu.nextInt();
+        while(t>0){
+            int n=katu.nextInt();
+            long[] arr=new long[n];
+             HashSet<Long> alag=new HashSet<Long>();
+            for(int i=0;i<n;i++){
+                arr[i]=katu.nextLong();
+                alag.add(arr[i]);
             }
  
-            if (freq.size() == 1) {
+            if(alag.size()==1){
                 System.out.println("YES");
-            } 
-            else if (freq.size() == 2) {
-                int[] counts = new int[2];
-                int i = 0;
- 
-                for (int value : freq.values()) {
-                    counts[i++] = value;
+            }
+            else if(alag.size()==2){
+                int count1=0,count2=0;
+                for(int i=0;i<n;i++){
+                    if(arr[i]==arr[0]){
+                        count1++;
+                    }
+                    else{
+                        count2++;
+                    }
                 }
- 
-                if (Math.abs(counts[0] - counts[1]) <= 1) {
+                if(((count1==(n/2))&&count2==((n+1)/2))||((count1==((n+1)/2))&&count2==(n/2))){
                     System.out.println("YES");
-                } else {
+                }
+                else{
                     System.out.println("NO");
                 }
-            } 
-            else {
+            }
+            else{
                 System.out.println("NO");
             }
+            t--;
         }
     }
 }
