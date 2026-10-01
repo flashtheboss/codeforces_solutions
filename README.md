@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 10 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [implementation](#implementation) (4)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
@@ -93,6 +93,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### strings
