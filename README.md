@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 10 |
+| 17 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (4)
-- [math](#math) (7)
+- [implementation](#implementation) (5)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
@@ -71,6 +71,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ### math
@@ -80,6 +81,7 @@
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/flashtheboss/coforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
